@@ -12,7 +12,7 @@
 ## 2. 소개 (Introduction)
 ![소개글](public/images/readmeImg/소개글.png)
 
-**Toolix**는 최신 **AI 기술(Google Generative AI)**과 강력한 **Rich Text Editor(Tiptap)**를 결합하여 웹 콘텐츠 제작의 혁신을 목표로 하는 프로젝트입니다. 
+**Toolix**는 최신 AI 기술(Google Generative AI)과 강력한 Rich Text Editor(Tiptap)를 결합하여 웹 콘텐츠 제작의 혁신을 목표로 하는 프로젝트입니다. 
 단순한 텍스트 편집을 넘어, AI가 문맥을 이해하고 텍스트를 생성하거나 교정해 주며, 사용자의 의도를 파악하여 최적의 글쓰기 경험을 제공합니다. 
 직관적인 UI와 스마트한 기능으로 누구나 전문가 수준의 콘텐츠를 쉽고 빠르게 제작할 수 있습니다.
 
